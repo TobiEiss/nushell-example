@@ -1,0 +1,32 @@
+Customer ID;Name;Email;Age;Gender;Postcode;City;Country
+101;John Doe;johndoe@example.com;35;Male;10001;New York;USA
+102;Jane Smith;janesmith@example.com;28;Female;20002;Los Angeles;USA
+103;Bob Johnson;bjohnson@example.com;45;Male;30003;Chicago;USA
+104;Alice Brown;abrown@example.com;30;Female;40004;San Francisco;USA
+105;Michael Lee;michaellee@example.com;40;Male;50005;Seattle;USA
+106;Emily Davis;emilydavis@example.com;32;Female;60006;Boston;USA
+107;David Wilson;davidwilson@example.com;37;Male;70007;Miami;USA
+108;Sarah Martinez;sarahmartinez@example.com;25;Female;80008;Houston;USA
+109;James Taylor;jamestaylor@example.com;29;Male;90009;Atlanta;USA
+110;Emma White;emmawhite@example.com;33;Female;10010;Denver;USA
+111;Alex Johnson;alexjohnson@example.com;27;Diverse;11011;Portland;USA
+112;Samantha Chang;samanthachang@example.com;36;Female;12012;San Diego;USA
+113;Max Power;maxpower@example.com;42;Male;13013;Las Vegas;USA
+114;Luna Moon;lunamoon@example.com;31;Female;14014;Orlando;USA
+115;Rocky Road;rockyroad@example.com;34;Diverse;15015;Austin;USA
+116;Hans Müller;hansmueller@example.com;39;Male;10115;Berlin;Germany
+117;Sophie Dubois;sophiedubois@example.com;26;Female;75001;Paris;France
+118;Giorgio Rossi;giorgiorossi@example.com;44;Male;00100;Rome;Italy
+119;Maria Garcia;mariagarcia@example.com;38;Female;28001;Madrid;Spain
+120;Andreas Andersen;andreasandersen@example.com;30;Male;1000;Copenhagen;Denmark
+121;Anna Nowak;annanowak@example.com;29;Female;00-001;Warsaw;Poland
+122;Ivan Ivanov;ivanivanov@example.com;35;Male;1000;Sofia;Bulgaria
+123;Elena Petrova;elenapetrova@example.com;31;Female;1000;Sofia;Bulgaria
+124;Martijn van der Veen;martijnvanderveen@example.com;33;Male;1000;Amsterdam;Netherlands
+125;Katrine Hansen;katrinehansen@example.com;27;Female;1000;Oslo;Norway
+126;Daniel Kim;danielkim@example.com;36;Male;90001;Los Angeles;USA
+127;Jessica Lee;jessicalee@example.com;29;Female;90001;Los Angeles;USA
+128;Michael Smith;michaelsmith@example.com;41;Male;90001;Los Angeles;USA
+129;Jennifer Johnson;jenniferjohnson@example.com;32;Female;90001;Los Angeles;USA
+130;Chris Taylor;christaylor@example.com;35;Male;90001;Los Angeles;USA
+
